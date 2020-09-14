@@ -1,0 +1,29 @@
+dispatcher:-
+LOgin Page for Acme Site-->Shruti
+email if login not sucessfull-->Shruti ----(Bussiness exception)
+Click on work item--Shruti
+Data scraping and filter W15 and status=open--Anshul
+Logout ACME site--Anshul
+Open site SHA---Anshul
+close sha---Anshul
+
+performer:-
+Click to open work item--Divya
+Get data item(Client id name and location)---Divya
+enter the data into SHA and click hash and get hash code-Mayank
+click on "update work item"--Divya
+enter the key and change status and click on "update Work item" button and click ok---Mayank
+
+If no data then end procees-****
+
+
+
+**Window Credential manager
+**Database ---Mayank
+**Excel---Anshul/Divya
+**Queue--Shruti
+**Github
+ 
+
+
+
